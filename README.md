@@ -1,6 +1,6 @@
 # mythbuster
 
-FIXME: description
+Clojure Web Application Template
 
 ## Installation
 
